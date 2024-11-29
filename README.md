@@ -13,4 +13,4 @@
 ## Rust 资源
 
 1. [rust](https://www.rust-lang.org/) 官网
-2. [rust book]([https://www.rust-lang.org/](https://doc.rust-lang.org/book/)) 官方书籍
+2. [rust book](https://doc.rust-lang.org/book/) 官方书籍
