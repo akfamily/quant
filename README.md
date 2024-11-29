@@ -9,3 +9,8 @@
 
 1. [pybroker](https://www.pybroker.com/) 是一款开源免费的量化投研框架
 2. [backtrader](https://www.backtrader.com/) 是一款开源免费的量化投研框架
+
+## Rust 资源
+
+1. [rust](https://www.rust-lang.org/) 官网
+2. [rust book]([https://www.rust-lang.org/](https://doc.rust-lang.org/book/)) 官方书籍
