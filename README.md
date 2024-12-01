@@ -4,15 +4,16 @@
 
 ## 数据
 
-1. [akshare](https://akshare.akfamily.xyz/) 是一款开源财经数据接口库
-2. [yfinance](https://github.com/ranaroussi/yfinance) 是一款基于雅虎财经的开源数据接口库
+1. [AKShare](https://akshare.akfamily.xyz/)，其是一款基于 Python 的开源财经数据接口库
+2. [yfinance](https://github.com/ranaroussi/yfinance)，其是一款基于 Python 的的开源数据接口库
 
 ## 投研框架
 
-1. [pybroker](https://www.pybroker.com/) 是一款开源免费的量化投研框架
-2. [backtrader](https://www.backtrader.com/) 是一款开源免费的量化投研框架
+1. [PyBroker 官网](https://www.pybroker.com/)，其是一款开源免费的量化投研框架
+2. [BackTrader 官网](https://www.backtrader.com/)，是一款开源免费的量化投研框架
 
 ## Rust 资源
 
-1. [rust](https://www.rust-lang.org/) 官网
-2. [rust book](https://doc.rust-lang.org/book/) 官方书籍
+1. [Rust 官网](https://www.rust-lang.org/) 
+2. [Rust 官方书籍](https://doc.rust-lang.org/book/)
+3. [Rust 官方博客](https://blog.rust-lang.org/)
