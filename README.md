@@ -14,6 +14,8 @@
 
 ## Rust 资源
 
+该部分的内容主要是为了解决高性能计算的问题
+
 1. [Rust 官网](https://www.rust-lang.org/) 
 2. [Rust 官方书籍](https://doc.rust-lang.org/book/)
 3. [Rust 官方博客](https://blog.rust-lang.org/)
