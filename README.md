@@ -5,7 +5,7 @@
 ## 数据
 
 1. [AKShare](https://akshare.akfamily.xyz/)，其是一款基于 Python 的开源财经数据接口库
-2. [yfinance](https://github.com/ranaroussi/yfinance)，其是一款基于 Python 的的开源数据接口库
+2. [yfinance](https://github.com/ranaroussi/yfinance)，其是一款基于 Python 的开源财经数据接口库
 
 ## 投研框架
 
