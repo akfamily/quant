@@ -12,6 +12,7 @@
 1. [PyBroker 官网](https://www.pybroker.com/)，其是一款开源免费的量化投研框架
 2. [BackTrader 官网](https://www.backtrader.com/)，是一款开源免费的量化投研框架
 3. [NautilusTrader 官网](https://nautilustrader.io/)，其是一款用 Rust 作为核心的用 Python 调用的高性能量化交易框架
+4. [VeighNa](https://www.vnpy.com/)，其是基于 Python 的开源量化交易平台开发框架
 
 ## Rust 资源
 
