@@ -21,3 +21,4 @@
 1. [Rust 官网](https://www.rust-lang.org/) 
 2. [Rust 官方书籍](https://doc.rust-lang.org/book/)
 3. [Rust 官方博客](https://blog.rust-lang.org/)
+4. [Rust 语言中文社区](https://rustcc.cn/)
