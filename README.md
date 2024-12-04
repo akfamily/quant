@@ -22,3 +22,4 @@
 2. [Rust 官方书籍](https://doc.rust-lang.org/book/)
 3. [Rust 官方博客](https://blog.rust-lang.org/)
 4. [Rust 语言中文社区](https://rustcc.cn/)
+5. [RustQuant](https://github.com/avhz/RustQuant)，其是 Rust 领域用于量化金融的第三方 crate
