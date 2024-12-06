@@ -24,3 +24,4 @@
 3. [Rust 官方博客](https://blog.rust-lang.org/)
 4. [Rust 语言中文社区](https://rustcc.cn/)
 5. [RustQuant](https://github.com/avhz/RustQuant)，其是 Rust 领域用于量化金融的第三方 crate
+6. [corrode 博客](https://corrode.dev/blog/)，其是分享 Rust 最佳实践的博客
